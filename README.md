@@ -6,7 +6,7 @@ SVG Utility
 
 ```JavaScript
 var svgNode = SVGMold('svg',{
-  width   : "600px",
+  width   : "1000px",
   height  : "200px",
   version : '1.1',
   xmlns   : 'http://www.w3.org/2000/svg',
