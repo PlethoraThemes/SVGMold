@@ -4,6 +4,7 @@ SVG Utility
 ------
 ##USAGE: 
 
+```JavaScript
 var svgNode = SVGMold('svg',{
   width   : "600px",
   height  : "200px",
@@ -26,3 +27,4 @@ var svgNode = SVGMold('svg',{
   svgNode.appendChild(right_polygon);
   svgNode.appendChild(left_polygon);
   document.body.appendChild(svgNode)
+```
